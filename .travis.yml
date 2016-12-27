@@ -7,4 +7,4 @@ services:
 
 before_install:
 - docker pull ubuntu:latest
-- docker build -t G3N7/ubuntu-fresh .
+- docker build -t g3n7/ubuntu-fresh .
